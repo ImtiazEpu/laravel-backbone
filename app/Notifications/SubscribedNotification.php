@@ -41,6 +41,8 @@ class SubscribedNotification extends Notification implements ShouldQueue
     public function toMail($notifiable)
     {
         return (new MailMessage)
+            ->from('selim@kodeeo.com', 'Laravel Backbone')
+            ->subject('Laravel Backbone: 🎉🎉🎉 You are subscribed! 🎉🎉🎉')
             ->line('You have been subscribed to Laravel Backbone.')
             ->line('Stay tuned for updates.');
     }
