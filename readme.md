@@ -1,4 +1,6 @@
-<p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
+<p align="center">
+    <img src="https://raw.githubusercontent.com/Laravel-Backbone/laravel-backbone/master/_logo_backbone.png" width="425" height="150" alt="Laravel Backbone">
+</p>
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
@@ -66,6 +68,10 @@ Thank you for considering contributing to the Laravel framework! The contributio
 ## Security Vulnerabilities
 
 If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+
+## Credits
+
+Laravel Backbone logo by [Caneco](https://www.twitter.com/caneco)
 
 ## License
 
